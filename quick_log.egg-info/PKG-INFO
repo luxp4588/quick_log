@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: quick-log
 Version: 0.1
 Summary: 用于快速创建日志句柄，避免重复的设置相关参数
-Home-page: https://github.com/luxp4588/quick_quick.git
+Home-page: https://github.com/luxp4588/quick_log.git
 Author: python-xp
 Author-email: luxp4588@126.com
 License: MIT
